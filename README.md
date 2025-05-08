@@ -58,3 +58,7 @@ However, the live demo is fully functional and showcases all features built duri
 If you're an interviewer, mentor, or reviewer and would like 
 access to the source code for evaluation purposes, feel free to contact me.
 
+### 💼 Author
+Made with ❤️ by Piyush Suthar
+📧 piyushsuthar6300@gmail.com
+🔗 https://www.linkedin.com/in/piyush-suthar-dev/ | https://github.com/PiyushSutharScriptor/-Vestra-ShowCasae/
