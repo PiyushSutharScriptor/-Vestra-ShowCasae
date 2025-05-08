@@ -60,5 +60,6 @@ access to the source code for evaluation purposes, feel free to contact me.
 
 ### 💼 Author
 Made with ❤️ by Piyush Suthar
-📧 piyushsuthar6300@gmail.com
-🔗 https://www.linkedin.com/in/piyush-suthar-dev/ | https://github.com/PiyushSutharScriptor/-Vestra-ShowCasae/
+- 📧 piyushsuthar6300@gmail.com
+- 🔗 https://www.linkedin.com/in/piyush-suthar-dev/
+- https://github.com/PiyushSutharScriptor/-Vestra-ShowCasae/
